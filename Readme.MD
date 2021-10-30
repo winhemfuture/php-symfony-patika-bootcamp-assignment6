@@ -10,7 +10,7 @@ dersAdi, dersKodu, dersAciklamasi
 
 Projenizde bu sınıflara ait ilgili tabloları oluşturunuz. Oluşturduğunuz tablolarda rastgele deneme amaçlı birkaç veri giriniz.
 
-#### Örnek:
+### Örnek Veri:
 - Akademisyen için: Muhammet, Çıralı, Semantik
 - Öğrenci için: Cenk, Akıncı, 2104467
 - Ders için: Nesnesel Tasarıma Giriş, CENG201, Nesneye yönelik progrlama ile kodlama pratikleri
