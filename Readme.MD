@@ -1,6 +1,6 @@
 # ASSIGNMENT 6
 
-## SYMFONY İLE İLİŞKİSEL VERİ YAPISI OLUŞTURMA (60 puan)
+## SYMFONY İLE İLİŞKİSEL VERİ YAPISI OLUŞTURMA (100 puan)
 -	Akademisyenlerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
 ad, soyad, uzmanlık  
 -	Öğrencilerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
