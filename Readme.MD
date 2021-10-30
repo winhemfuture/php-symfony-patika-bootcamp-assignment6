@@ -27,4 +27,4 @@ Projenizde bu sınıflara ait ilgili tabloları oluşturunuz. Oluşturduğunuz t
 - Uygulamanızda repository pattern kullanılması zorunludur.
 - Uygulamada oluşacak öğrenci, akademisyen, ve ders için ayrı ayrı sayfalar olmalıdır. URL'deki ilgili verinin IDsi verildiği zaman o veriye ait kayıtlar gelmelidir.
 
-### Assignment için son teslim tarihi 30.10.2021 23:59:59'dur. Bundan sonra teslim edilen projeler 0 puan olarak değerlendirilecektir.
+### Assignment için son teslim tarihi 30.10.2021 23:59:59'dur. Bu tarihten sonra teslim edilen projeler 0 puan olarak değerlendirilecektir.
