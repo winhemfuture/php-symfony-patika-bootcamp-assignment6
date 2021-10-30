@@ -1,38 +1,22 @@
-# ASSIGNMENT 1
+# ASSIGNMENT 6
 
-1.	ARAŞTIRMA KONUSU (20 puan)
-Aşağıdaki bağlantıda yer alan isimlendirme geleneklerinin (naming conventions) arasındaki farkları belirten bir paragraflık yazı yazınız. İfadeleri kendi araştırmalarınız sonucunda yazmanız beklenmektedir.
-https://www.theserverside.com/answer/Pascal-case-vs-camel-case-Whats-the-difference
+1.	SYMFONY İLE İLİŞKİSEL VERİ YAPISI OLUŞTURMA (60 puan)
+-	Akademisyenlerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
+ad, soyad, uzmanlık
+-	Öğrencilerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
+ad, soyad, ogrenciNo
+-	Derslerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
+dersAdi, dersKodu, dersAciklamasi
 
-2.	YALIN (PURE) PHP İLE PROGRAMLAMA (20 puan)
--	N tane elemanı olan bir dizideki en küçük elemanı ekrana bastıran bir fonksiyon yazınız. 
--	N sayısı bir değişken üzerinden dinamik olarak tanımlanmalıdır.
--	PHP için önceden asort vb. önceden tanımlanmış (builtin) fonksiyonları kullanılmamalıdır.
+Projenizde bu sınıflara ait ilgili tabloları oluşturunuz. Oluşturduğunuz tablolarda rastgele deneme amaçlı birkaç veri giriniz.
 
-3.	OBJECT ORIENTED PROGRAMMING (60 puan)
--	Taşıtlarla ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
-plakaNo, marka, model, tekerlekSayisi, kanatAcikligi
--	Taşıtılara alternatif olarak üç tane sınıf oluşturulmalıdır:
-araba, motorsiklet, uçak
--	Oluşturulan bu sınıflara yukarıda tanımlanan öznitelikler (property) değer olarak girilmeli, aşağıdaki gibi ekrana bastırabilmelidir:
+####Örnek:
+Akademisyen için: Muhammet, Çıralı, Semantik
+Öğrenci için: Cenk, Akıncı, 2104467
+Ders için: Nesnesel Tasarıma Giriş, CENG201, Nesneye yönelik progrlama ile kodlama pratikleri
 
-Araba taşıtına ait öznitelikler şu şekildedir:
-
-- Plaka No: 06 ARAC 06
-- Marka: Mercedes
-- Model: C180
-- Tekerlek Sayısı: 4
-
-Motorsiklet taşıtına ait öznitelikler şu şekildedir:
-- Plaka No: 06 MOTOR 06
-- Marka: Honda
-- Model: Forza 750
-- Tekerlek Sayısı: 2
-
-Uçak taşıtına ait öznitelikler şu şekildedir:
-- Marka: Airbus
-- Model: A380
-- Kanat Açıklığı: 80m
-
-Yukarıda verilen değerler örnektir. Değerler her taşıt için rastgele girilebilir.
-
+### Uygulamanızda aşağıdaki kriterler zorunludur:
+Bir öğrenci birden fazla ders alabilir.
+Bir akademisyen birden fazla ders verebilir.
+Her bir dersi aynı anda tek bir akademisyen verebilir.
+Projenizde repository pattern kullanılması zorunludur.
