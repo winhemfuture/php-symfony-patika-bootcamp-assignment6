@@ -25,6 +25,6 @@ Projenizde bu sınıflara ait ilgili tabloları oluşturunuz. Oluşturduğunuz t
 - Bir akademisyen birden fazla ders verebilir.
 - Her bir dersi aynı anda tek bir akademisyen verebilir.
 - Uygulamanızda repository pattern kullanılması zorunludur.
-- Uygulamada oluşacak öğrenci, akademisyen, ve ders için ayrı ayrı sayfalar olmalıdır. URL'deki ilgili verinin IDsi verildiği zaman o veriye ait kayıtlar gelmelidir.
+- Uygulamada oluşacak öğrenci, akademisyen ve ders için ayrı ayrı sayfalar olmalıdır. URL'deki ilgili verinin IDsi verildiği zaman o veriye ait kayıtlar gelmelidir.
 
 ### Assignment için son teslim tarihi 31.10.2021 23:59:59'dur. Bu tarihten sonra teslim edilen projeler 0 puan olarak değerlendirilecektir.
