@@ -8,7 +8,7 @@ ad, soyad, ogrenciNo
 -	Derslerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
 dersAdi, dersKodu, dersAciklamasi  
 
-Projenizde bu sınıflara ait ilgili tabloları oluşturunuz. Oluşturduğunuz tablolarda rastgele deneme amaçlı birkaç veri giriniz.
+Projenizde bu sınıflara ait ilgili tabloları mutlaka oluşturunuz. Oluşturduğunuz tablolarda rastgele deneme amaçlı birkaç veri giriniz. Ekstra tablo kullanımı geliştiriciye bağlıdır.
 
 ### Örnek Veri:
 - Akademisyen için: Muhammet, Çıralı, Semantik
