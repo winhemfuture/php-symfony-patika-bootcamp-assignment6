@@ -1,11 +1,11 @@
 # ASSIGNMENT 6
 
 ## SYMFONY İLE İLİŞKİSEL VERİ YAPISI OLUŞTURMA (100 puan)
--	Akademisyenlerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
+-	Akademisyenlerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.  
 ad, soyad, uzmanlık  
--	Öğrencilerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
+-	Öğrencilerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.  
 ad, soyad, ogrenciNo  
--	Derslerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.
+-	Derslerle ilgili bir sınıf oluşturulmalıdır. Oluşturulan bu sınıfta aşağıdaki öznitelikler bulunmalıdır.  
 dersAdi, dersKodu, dersAciklamasi  
 
 Projenizde bu sınıflara ait ilgili tabloları mutlaka oluşturunuz. Oluşturduğunuz tablolarda rastgele deneme amaçlı birkaç veri giriniz. Ekstra tablo kullanımı geliştiriciye bağlıdır.
